@@ -5996,11 +5996,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\vini\\C#\\Aula0915\\Estacionamento_API\\Estacionamento_API.csproj",
+      "projectUniqueName": "c:\\Users\\Aluno\\Desktop\\learningCSharp\\Estacionamento_API\\Estacionamento_API.csproj",
       "projectName": "Estacionamento_API",
-      "projectPath": "C:\\vini\\C#\\Aula0915\\Estacionamento_API\\Estacionamento_API.csproj",
+      "projectPath": "c:\\Users\\Aluno\\Desktop\\learningCSharp\\Estacionamento_API\\Estacionamento_API.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\vini\\C#\\Aula0915\\Estacionamento_API\\obj\\",
+      "outputPath": "c:\\Users\\Aluno\\Desktop\\learningCSharp\\Estacionamento_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
